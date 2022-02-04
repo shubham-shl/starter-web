@@ -19,6 +19,7 @@ SHUBHAM KUMAR INSERYED  TO THE PARAGRAPH THAT SHOW NOTHING TO IT;
 ## How To Contribute
 
 shubham kumar gupta want to connect to this network
+please fork this repository and then issue pull request.
 
 ###copyright
 
